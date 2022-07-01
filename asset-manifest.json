@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SR-Shop/static/css/main.fc64b1fd.css",
+    "main.js": "/SR-Shop/static/js/main.8c845ac7.js",
+    "static/media/SRLogo.png": "/SR-Shop/static/media/SRLogo.0e0cc6a5a2b0465228cf.png",
+    "static/media/Shoes.jpg": "/SR-Shop/static/media/Shoes.ed6acae7d4ff7ab6f76d.jpg",
+    "static/media/other.jpg": "/SR-Shop/static/media/other.15eaafc6a6ab5dd6748e.jpg",
+    "static/media/Clothes.jpg": "/SR-Shop/static/media/Clothes.820bbccdfcb68f70bac3.jpg",
+    "static/media/Electronics.jpg": "/SR-Shop/static/media/Electronics.10595500c07ff2d45f36.jpg",
+    "static/media/Furniture.jpg": "/SR-Shop/static/media/Furniture.8e02319f16e1dc8f18dd.jpg",
+    "index.html": "/SR-Shop/index.html",
+    "main.fc64b1fd.css.map": "/SR-Shop/static/css/main.fc64b1fd.css.map",
+    "main.8c845ac7.js.map": "/SR-Shop/static/js/main.8c845ac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc64b1fd.css",
+    "static/js/main.8c845ac7.js"
+  ]
+}
